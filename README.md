@@ -12,7 +12,10 @@
 <h2>Side Projects</h2>
 <ul>
   <li><a href="https://github.com/micsum/frd_project_native-Self-healthy-management-application-">beHealthy (Health Management App)</a><br>(React Native,TypeScript,Expo,NestJS,Tailwind CSS,PostgreSQL)</li>
-  <li><a href="https://github.com/micsum/BAD-Project-Python-OCR-read-receipt-">fastdpay (OCR receipt read and split web app)</a><br>(Python,Express,Django,Tailwind CSS,PostgreSQL)</li>
+  <li><a href="https://github.com/micsum/BAD-Project-Python-OCR-read-receipt-">fastdpay (OCR receipt read and split web app)</a>
+    <br>(Python,Express,Django,Tailwind CSS,PostgreSQL)
+    <a href="https://fastdpay.online">website</a>
+  </li>
   <li><a href="https://github.com/micsum/Tecky-Project-HR-Claim-System-?tab=readme-ov-file">HR claim web system</a><br>(TypeScript,Express,TailwindCSS,PostgreSQL)</li>
 </ul>
 <br>
