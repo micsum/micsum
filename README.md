@@ -21,7 +21,7 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=micsum&layout=compact&size_weight=0.5&count_weight=1&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=micsum&layout=compact&size_weight=0.7&count_weight=1.2&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
