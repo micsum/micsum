@@ -6,7 +6,7 @@
 <h2>Experience</h2>
 <ul>
   <li>1 year Software Engineer (Fullstack)</li>
-  <li>4 years Business Analsyt</li>
+  <li>4 years Business Analyst</li>
 </ul>
 
 <h2>Side Projects</h2>
